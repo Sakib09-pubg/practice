@@ -4,7 +4,7 @@ while(True):
         i+=1
         continue
     print(i,end=' ')
-    if i==55:
+    if i==19:
         i+=1
         break
     i+=1
